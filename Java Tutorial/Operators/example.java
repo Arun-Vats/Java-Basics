@@ -1,7 +1,7 @@
 public class example{
     public static void main(String[]args){
         int a=120,b=123,c=12;
-        System.out.println(a<b&a>c);//here < is comparison operator, & is bitwaise and
+        System.out.println(a<b&a>c);//here < is comparison operator, & is bitwise and
         System.out.println(a>b&&a>c);//here && is logical and
     }
 }
