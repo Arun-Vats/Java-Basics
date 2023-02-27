@@ -6,3 +6,9 @@ public class ifexample{
         }
     }
 }
+
+/*It is the most basic statement among all control flow statements in Java. It evaluates a 
+Boolean expression and enables the program to enter a block of code if the expression evaluates 
+to true.
+
+ */
