@@ -11,3 +11,10 @@ int c=(a>b)?a:b;
 System.out.println(c);
 }    
 }
+/*
+Certainly! The ternary operator is a shorthand way of writing an if-else statement 
+in a single line of code. Its syntax looks like this:
+
+condition ? expression1 : expression2
+
+ */
