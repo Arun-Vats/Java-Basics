@@ -3,22 +3,22 @@ public class vowelexample {
         char vowel='p';
         switch(vowel){
             case 'a':
-            System.out.println("Inserted Character is Vowel.");
+            System.out.println("Vowel.");
             break;
             case 'e':
-            System.out.println("Inserted Character is Vowel.");
+            System.out.println("Vowel.");
             break;
             case 'i':
-            System.out.println("Inserted Character is Vowel.");
+            System.out.println("Vowel.");
             break;
             case 'o':
-            System.out.println("Inserted Character is Vowel.");
+            System.out.println("Vowel.");
             break;
             case 'u':
-            System.out.println("Inserted Character is Vowel.");
+            System.out.println("Vowel.");
             break;
             default:
-            System.out.println("Inserted Character is consonant.");
+            System.out.println("Consonant.");
         }
     }
 }
