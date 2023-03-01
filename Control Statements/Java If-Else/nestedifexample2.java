@@ -10,7 +10,9 @@ public class nestedifexample2 {
         if(a>18&&a<=45){
             if(b>48&&b<=70){
                 System.out.println("Congratulations! You Are Healthy.");
-                
+            }
+            else{
+            System.out.println("Sorry, You Are Not Healthy.");
             }
         }
         else{
